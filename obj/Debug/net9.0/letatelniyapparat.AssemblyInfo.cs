@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("letatelniyapparat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5b0fb20a1346efcfd3d33d904d504362b5b8866")]
 [assembly: System.Reflection.AssemblyProductAttribute("letatelniyapparat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("letatelniyapparat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
